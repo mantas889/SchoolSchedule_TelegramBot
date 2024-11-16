@@ -1,41 +1,16 @@
-# Python cache files
-__pycache__/
-*.py[cod]
+## Установка проекта
+<code>git clone https://github.com/SmallShorty/SchoolSchedule_TelegramBot</code>
 
-# Virtual environment directories
-venv/
-env/
-.venv/
-.env/
+## Импорт необходимых библиотек
 
-# IDE and editor files
-.vscode/
-.idea/
-*.swp
-*.swo
+# Работа с GitHub
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+## Переключение ветки
+<code>git checkout имя_ветки</code>
+<code>git checkout -b имя_ветки</code>
+<code></code>
 
-# Logs
-*.log
-
-# Local configuration files
-config.yaml
-config.json
-config.ini
-*.env
-
-# Byte-compiled / optimized / DLL files
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-
-# Backup files
-*~
-*.bak
-
-# Sensitive information
-secrets.json
+## Добавление изменений
+<code>git add .</code>
+<code>git commit -m "Описание изменений"</code>
+<code>git push origin имя_ветки</code>
